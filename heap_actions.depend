@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1450670408 source:/home/breakpoint/Documents/ACMCode/heap_actions/main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+
